@@ -1,0 +1,5 @@
+{'user_id': '17969', 'branch': 'North', 'trainer': 'Maps', 'hour': 15, 'goal': 'Lose Weight'}
+{'user_id': '17969', 'branch': 'North', 'trainer': 'Maps', 'hour': 16, 'goal': 'Lose Weight'}
+{'user_id': '14325', 'branch': 'North', 'trainer': 'Maps', 'hour': 16, 'goal': 'Lose Weight'}
+{'user_id': '18777', 'branch': 'North', 'trainer': 'Maps', 'hour': 16, 'goal': 'Lose Weight'}
+{'user_id': '10391', 'branch': 'North', 'trainer': 'Maps', 'hour': 16, 'goal': 'Lose Weight'}
