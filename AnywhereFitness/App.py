@@ -25,7 +25,7 @@ FG_COLOR = "white"
 
 btn_style = {
     "bg": BG_COLOR,
-    "fg": "white",
+    "fg": "black",
     "relief": "flat",
     "font": ("Arial", 14),
     "width": 20
